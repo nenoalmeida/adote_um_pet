@@ -1,7 +1,7 @@
 {<img src="https://codeclimate.com/repos/5779824accd8ab4efe002542/badges/1c0d32c4ad8626e71b05/gpa.svg" />}[https://codeclimate.com/repos/5779824accd8ab4efe002542/feed] {<img src="https://codeclimate.com/repos/5779824accd8ab4efe002542/badges/1c0d32c4ad8626e71b05/coverage.svg" />}[https://codeclimate.com/repos/5779824accd8ab4efe002542/coverage] {<img src="https://codeclimate.com/repos/5779824accd8ab4efe002542/badges/1c0d32c4ad8626e71b05/issue_count.svg" />}[https://codeclimate.com/repos/5779824accd8ab4efe002542/feed]
 
 
-== README
+== Adote um pet
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
