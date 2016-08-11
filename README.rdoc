@@ -3,8 +3,8 @@
 
 == Adote um pet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+App para facilitar a interação entre doadores de animais e futuros donos. Dentro da plataforma é possivel enviar mensagens, selecionar
+tipos de pets, ver fotos e ver localização do pet mais proximo.
 
 Things you may want to cover:
 
