@@ -35,7 +35,7 @@ Please feel free to use a different markup language if you do not plan to run
 Thanks!
 Neno Almeida.
 
-[Twiter](https://twitter.com/neniisky)
-[Linkedin](https://br.linkedin.com/in/nenoalmeida)
-[Medium](https://medium.com/@nenoalmeida)
+(https://twitter.com/neniisky)
+(https://br.linkedin.com/in/nenoalmeida)
+(https://medium.com/@nenoalmeida)
 
